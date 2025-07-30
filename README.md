@@ -1,3 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats-linconls-projects.vercel.app/api?username=linconlg&show_icons=true&theme=dracula)](https://github-readme-stats-linconls-projects.vercel.app/)
+[![Minhas estatísticas GitHub](https://github-readme-stats-three-zeta-28.vercel.app/api?username=linconlg&show_icons=true&theme=dracula)](https://github.com/linconlg)
 
-![Top Langs](https://github-readme-stats-linconls-projects.vercel.app/api/top-langs/?username=linconlg&hide_progress=true&theme=dracula)
+![Top Langs](https://github-readme-stats-three-zeta-28.vercel.app/api/top-langs/?username=linconlg&hide_progress=true&theme=dracula)
